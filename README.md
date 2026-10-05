@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sai Bhargavi 👋
 
-<!--
-**saibhargavimandalaneni-code/saibhargavimandalaneni-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 ECE Student | Robotics Specialization
 
-Here are some ideas to get you started:
+💻 Currently learning C, Python, DSA and Object-Oriented Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Interested in Robotics, Embedded Systems and Embedded Software
+
+📚 Preparing for campus placements and building strong problem-solving skills
+
+## Currently Learning
+
+* C Programming
+* Python
+* Data Structures and Algorithms
+* Object-Oriented Programming
+* SQL
+* Embedded Systems
+* Robotics
+
+## Areas of Interest
+
+* Embedded Software
+* Robotics
+* Automation
+* Software Development
+
+## Connect With Me
+
+* LinkedIn: [Sai Bhargavi Mandalaneni](https://www.linkedin.com/in/sai-bhargavi-mandalaneni-643b95417/)

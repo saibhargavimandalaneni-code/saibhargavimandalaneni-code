@@ -28,3 +28,11 @@
 ## Connect With Me
 
 * LinkedIn: [Sai Bhargavi Mandalaneni](https://www.linkedin.com/in/sai-bhargavi-mandalaneni-643b95417/)
+
+## Technical Skills
+
+- **Programming Languages:** C, Python
+- **Core Concepts:** Data Structures and Algorithms, Object-Oriented Programming
+- **Database:** SQL
+- **Specialization:** Robotics and Embedded Systems
+- **Tools:** Git, GitHub
